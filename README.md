@@ -40,8 +40,8 @@ Each platform ships with full Terraform IaC, governance layers, MLOps, agent eva
 
 ### Public repositories
 
-- [`agent-picklight`](https://github.com/ImJulian1992/agent-picklight) — Pick-to-Light release planning agent with SAP Business One Service Layer integration and CSV export for warehouse operations.
-- [`rrhh_attendance_Ibermir`](https://github.com/ImJulian1992/rrhh_attendance_Ibermir) — HR attendance automation built on Microsoft Graph API.
+- [`agent-picklight-showcase`](https://github.com/ImJulian1992/agent-picklight-showcase) — Case study of a production warehouse operations platform: Claude-powered Teams agent with SAP Business One integration, FEFO allocation, and Circuit route dispatch.
+- `hr-attendance-graph-showcase` — HR attendance automation case study built on Microsoft Graph API. *Coming soon.*
 
 ---
 
